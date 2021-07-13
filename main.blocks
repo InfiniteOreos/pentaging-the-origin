@@ -1,1 +1,18 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="{7Qmsxc0_Ozgapzjek$R" x="0" y="0"/></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="nltl}dRXw9x6cV_{Iu[E">mySprite</variable><variable type="KIND_SpriteKind" id="wl}PB)(({CU4Xh{}#u{;">Player</variable><variable type="KIND_SpriteKind" id="y=pk=jXN!}I~v-Qg!A4o">Projectile</variable><variable type="KIND_SpriteKind" id="8fmbC+;m]i_X_Pz`WKOw">Food</variable><variable type="KIND_SpriteKind" id="cm!GTUPYpfD?nL!KXvvc">Enemy</variable></variables><block type="pxt-on-start" id="!}1}*SNDb4-J^Kh2.wb#" x="0" y="0"><statement name="HANDLER"><block type="gamesetbackgroundcolor" id="b=[an9DucOwRX;7Vc*hU"><value name="color"><shadow type="colorindexpicker" id="G^eKGv?M6ZZO$ZvGQaW%"><field name="index">9</field></shadow></value><next><block type="variables_set" id="bC;Fv(N{?QJ}#C;n`YA-"><field name="VAR" id="nltl}dRXw9x6cV_{Iu[E">mySprite</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="7sdna{Vnrp9~VUmd^2jA"><value name="img"><shadow type="screen_image_picker" id="[{_`kxy*,}/lNNVLFvHL"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"[{_`kxy*,}/lNNVLFvHL"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="V$xdG#yT}$?`{!Gj.m#]"><field name="MEMBER">Player</field></shadow></value></block></value></block></next></block></statement></block></xml>
